@@ -10,3 +10,4 @@ $.ajaxSetup({
 layer.load(1, {shade: [0.1,'#000'],});
 layer.closeAll('loading');
 ```
+
