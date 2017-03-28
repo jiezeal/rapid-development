@@ -14,3 +14,4 @@ layer.closeAll('loading');
 ```
 php artisan migrate:rollback
 ```
+
