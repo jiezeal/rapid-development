@@ -1,4 +1,4 @@
-#rapid-development
+#[rapid] 快速开发
 
 ```
 $.ajaxSetup({
