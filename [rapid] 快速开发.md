@@ -15,6 +15,7 @@ layer.closeAll('loading');
 php artisan migrate:rollback
 ```
 
+查看laravel版本
 ```
 php artisan --version
 ```
